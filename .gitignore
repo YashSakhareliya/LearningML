@@ -12,6 +12,8 @@ venv/
 .env/
 *.env
 *.venv
+.virtual_documents/
+
 
 # Ignore system files
 .DS_Store
