@@ -9,3 +9,4 @@ ipykernel
 seaborn
 sklearn
 seaborn
+nltk
