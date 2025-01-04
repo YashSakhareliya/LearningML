@@ -7,7 +7,5 @@ matplotlib
 openpyxl
 ipykernel
 seaborn
-sklearn
-seaborn
 nltk
 tensorflow
